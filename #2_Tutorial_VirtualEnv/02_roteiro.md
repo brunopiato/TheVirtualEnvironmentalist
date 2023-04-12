@@ -124,7 +124,7 @@ Na imagem abaixo podemos ver a ordem de prioridade que o `pyenv` utiliza para re
 
 <br>
 <p align="center">
-<img src="/home/bruno/repos/TheVirtualEnvironmentalist/#2_Tutorial_VirtualEnv/imgs/pyenv-pyramid.png" alt="piramide" >
+<img src="./imgs/pyenv-pyramid.png" alt="piramide" >
 <figcaption align = "center"><b>Pirâmide que representa a ordem de resolução prioritária do pyenv. Ela deve ser lida de cima baixo, de modo que o pyenv procura primeiro uma especificação de versão do shell, caso não encontre, ele busca uma especificação de versão local. Caso também não encontre, procura especificação da versão globa. E por fim, usa a versão do próprio sistema. Esta ordem de especificações de versões está alocada nos arquivos e na estrutura de diretórios do pyenv. Imagem original de RealPython</b></figcaption>
 </p>
 
